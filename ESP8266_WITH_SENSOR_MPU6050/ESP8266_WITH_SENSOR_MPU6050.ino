@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 #include <Wire.h>
 
-const char* ssid = "barbar";
-const char* password = "amengaja";
+const char* ssid = "your-Name-ssidWIFI";
+const char* password = "your-Password-ssidWIFI";
 
 const char* mqttServerIP = "192.168.1.105";
 const int mqttPort = 1883;
